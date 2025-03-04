@@ -1,4 +1,4 @@
-# React_Web_App
+# Stock Search Analysis Web Application
 Stock Trading Web Application
 
 This is a full-stack stock trading web application built using React for the frontend and Node.js for the backend. The backend is hosted on Google Cloud Platform (GCP), and data is stored in MongoDB, a NoSQL database. The application allows users to buy and sell stocks, manage their wishlist, and provides an intuitive user experience for stock trading.
